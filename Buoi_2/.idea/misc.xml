@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/HuynhNam_2/HuynhNam/BT1/BT1/pom.xml" />
+        <option value="$PROJECT_DIR$/HuynhNam_2/HuynhNam/BTLayout/BTLayout/pom.xml" />
+        <option value="$PROJECT_DIR$/HuynhNam_2/HuynhNam/BT_CRUD_3a/BT_CRUD_3a/pom.xml" />
+        <option value="$PROJECT_DIR$/HuynhNam_2/HuynhNam/BT_CRUD_3b/BT_CRUD_3b/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
